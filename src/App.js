@@ -14,11 +14,11 @@ function App() {
         <p>We now have authentication powered by amplify auth</p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.linkedin.com/in/er-ramani-velasco-rosete-a2b7b1140/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          See my LinkedIn!
         </a>
         <AmplifySignOut/>
       </header>
