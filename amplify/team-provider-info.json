@@ -16,5 +16,23 @@
         "awsreactapp1d27f0b2": {}
       }
     }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-aws-react-app-dev-175956-authRole",
+      "UnauthRoleArn": "arn:aws:iam::371565812655:role/amplify-aws-react-app-dev-175956-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::371565812655:role/amplify-aws-react-app-dev-175956-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-aws-react-app-dev-175956-deployment",
+      "UnauthRoleName": "amplify-aws-react-app-dev-175956-unauthRole",
+      "StackName": "amplify-aws-react-app-dev-175956",
+      "StackId": "arn:aws:cloudformation:us-east-2:371565812655:stack/amplify-aws-react-app-dev-175956/1c28bef0-5920-11eb-93cc-0600f1d4ce0c",
+      "AmplifyAppId": "d2kummzj4p6jdl"
+    },
+    "categories": {
+      "auth": {
+        "awsreactapp1d27f0b2": {}
+      }
+    }
   }
 }
